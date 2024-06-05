@@ -1,6 +1,10 @@
 ## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" align="center" width="1000" />
+<!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
+</div><h1 align="center">I am Abhishek Aman</h1>
+<h3 align="center">Either a product obsessed developer or a full stack developer</h3>
 
-<!--
 **abhishekaman3015/abhishekaman3015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
