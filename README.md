@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>-->
-<a href="https://dev.to/abhishekaman3015" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhishekaman3015/github-profile-readme-generator/abhishekaman3015-devlogo/src/images/icons/Social/devto.svg" alt="abhishekaman3015" height="30" width="40" /></a>
+<!--<a href="https://dev.to/abhishekaman3015" target="blank"><img align="center" src="https://raw.githubusercontent.com/abhishekaman3015/github-profile-readme-generator/abhishekaman3015-devlogo/src/images/icons/Social/devto.svg" alt="abhishekaman3015" height="30" width="40" /></a>-->
 <a href="https://twitter.com/abhishek315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek315" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekaman3015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekaman3015" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>-->
